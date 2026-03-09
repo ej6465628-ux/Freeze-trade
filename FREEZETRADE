@@ -1,6 +1,3 @@
-if not game then
-    error("404 Not Found")
-end
 
 --[[
  .____                  ________ ___.    _____                           __                
